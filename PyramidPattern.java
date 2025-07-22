@@ -1,4 +1,4 @@
- public class starPatterns {
+ public class PyramidPattern {
     public static void main(){
         
         for(int i=0; i<=4; i++){
