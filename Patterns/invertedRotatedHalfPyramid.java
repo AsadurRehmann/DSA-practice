@@ -1,3 +1,4 @@
+package Patterns;
 public class invertedRotatedHalfPyramid {
     public static void main(String[] args) {
         

@@ -1,3 +1,4 @@
+package Patterns;
 public class characterPattern {
     public static void main(String[] args) {
         

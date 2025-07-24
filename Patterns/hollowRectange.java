@@ -1,3 +1,4 @@
+package Patterns;
 public class hollowRectange {
     public static void main(String[] args) {
         
