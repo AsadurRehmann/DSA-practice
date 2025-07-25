@@ -15,5 +15,6 @@ public class binaryToDecimal {
             input=input/10;
         }
         System.out.println(decimal);
+        sc.close();
     }
 }
