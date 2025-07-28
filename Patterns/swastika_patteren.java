@@ -7,7 +7,12 @@ public class swastika_patteren {
 
         for(int i=1; i<=rows; i++){
             for(int j=1; j<=cols; j++){
-                if( (i==4 || j==4)  || (j==1 && i<=rows/2)  ||  (j==cols && i>(rows/2)+1)   ||   (i==1 && j>cols/2) ||  (i==rows && j<cols/2)){
+                if( (i==4 || j==4) ||
+                 (j==1 && i<=rows/2) ||
+                 (j==cols && i>(rows/2)+1) ||
+                 (i==1 && j>cols/2) ||
+                 (i==rows && j<cols/2))
+                {
                     System.out.print("*");
                 }
                 else{
