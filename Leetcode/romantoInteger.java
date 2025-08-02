@@ -23,7 +23,7 @@ public class romantoInteger {
     }
 
     public static void main(String[] args) {
-        String s = "CMV";
+        String s = "IV";
 
         System.out.println("ANS:" + romanToInt(s));
     }
