@@ -1,4 +1,4 @@
-package Problems;
+
 import java.util.Scanner;
 
 public class decimalToBinary {
@@ -32,3 +32,4 @@ public class decimalToBinary {
         sc.close();
     }
 }
+
